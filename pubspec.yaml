@@ -38,7 +38,7 @@ dependencies:
   dartx: ^1.1.0
 
   # http
-  dio: ^5.0.0
+  dio: ^5.0.2
 
   # connectivity
   connectivity_plus: ^3.0.3
