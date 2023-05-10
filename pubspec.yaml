@@ -45,7 +45,7 @@ dependencies:
   internet_connection_checker: ^1.0.0+1
 
   # others
-  package_info_plus: ^3.0.3
+  package_info_plus: ^4.0.0
   reactive_forms: ^14.1.0
   flutter_screenutil: ^5.6.1
   device_preview: ^1.1.0
